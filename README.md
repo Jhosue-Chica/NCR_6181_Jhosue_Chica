@@ -6,3 +6,4 @@ Buenas practicas de Programacion
 3. Utilizar una correcta sintaxis 
 4. Emplear una semantica correcta
 5. Utilizar variables de acuerdo a la necesidad
+cambio
